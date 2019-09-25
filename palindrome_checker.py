@@ -1,8 +1,4 @@
-"""Problem 6:
-Ask the user for a string and print out whether this string is a palindrome or not.
-Palindrome - does it read forward as it does backwards?
-"""
-
+#A program that asks the user for a string and prints out whether this string is a palindrome or not.
 def reverse(palindrome_checker):
 	palindrome_checker = palindrome_checker[::-1]
 	return palindrome_checker
