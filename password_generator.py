@@ -1,7 +1,6 @@
 """
 This script randomly generates a user password based on length preference.
 
-
 Author: Kai Street
 Date: 15 October 2019
 """
